@@ -1,0 +1,35 @@
+.rs-sidenav {
+    height: 100vh;
+    margin-right: 2%;
+}
+
+.rs-sidenav-collapse-in {
+    width: 16%;
+}
+
+.rs-sidenav-collapse-in .rs-btn-toggle {
+    margin: 20px 0 0 20px;
+}
+
+.rs-sidenav-collapse-out .rs-btn-toggle {
+    margin: 20px 0 0 5px;
+}
+
+.rs-btn-toggle-checked {
+    background-color: #879ad0;
+}
+
+.rs-btn-toggle-checked:hover {
+    background-color: #5e78c0;
+
+}
+
+.sidenav-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+hr {
+    border-top-color: #fff;
+    margin-bottom: 10px;
+}
